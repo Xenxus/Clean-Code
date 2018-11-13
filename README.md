@@ -2,9 +2,9 @@
 
 ## Table of Content
 
-  1. Introduction
-  2. Variables
-  3. Functions
+  1. [Introduction](#Introduction)
+  2. [Variables](#Variables)
+  3. [Functions](#Functions)
 
 ## Introduction
   We will write the introduction for the clean code here.
